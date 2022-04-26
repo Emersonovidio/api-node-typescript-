@@ -1,0 +1,23 @@
+{
+  "name": "api-node-typescript-",
+  "version": "1.0.0",
+  "description": "api with node &amp; typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emersonovidio/api-node-typescript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emersonovidio/api-node-typescript-/issues"
+  },
+  "homepage": "https://github.com/Emersonovidio/api-node-typescript-#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.27"
+  }
+}
